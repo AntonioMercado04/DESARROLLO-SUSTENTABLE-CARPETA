@@ -8,34 +8,29 @@ Programar y simular el flujo de procesamiento de un chatbot para analizar imáge
 
 ## Diagrama del circuito
 
-<img src="Diagrama/Led 13.png" width="300">
-
+![Diagrama del circuito](DS1/ECOSISTEMA2.1/Diagrama/Diagramadesarrollo.png)
 
 ## Código
-[readme](ruta/del/archivo.ext)
+[Readme](DS1/ECOSISTEMA2.1/Codigo/readme.txt)
 
 
 
 ## Video del funcionamiento
 
-[Readme](Video/Readme.txt)
+[Readme](DS1/ECOSISTEMA2.1/Video/readme.txt)
 
 [Ver video en YouTube]([https://www.youtube.com/watch?v=T5Aq7cRc-mU](https://www.youtube.com/watch?v=r36q2z-AkHk&sttick=0)
 
-## Evidencias de armado
-
-<img src="Diagrama/Led 13.png" width="300">
-
 ## Reporte
 Incluye:
-[Resultados.pdf](Resultados/Resultados.pdf)
+[Resultados.pdf](DS1/ECOSISTEMA2.1/Reporte/ReportedeResultados.pdf)
 
 - Gráficas (insertar imagen o link)
 - Tablas de datos
 - Observaciones sobre el comportamiento del sistema
 
 ## Conclusiones
-La práctica permitió reforzar el uso de las funciones básicas de salida digital y temporización en Arduino (digitalWrite y delay), así como comprender el funcionamiento eléctrico de un protoboard: la importancia de que los componentes queden conectados en serie para que la resistencia cumpla su función de limitar la corriente. Este tipo de error es común en simuladores como Tinkercad y resalta la importancia de verificar el camino real de la corriente, no solo la presencia física de los componentes en el circuito.
+La práctica permitió reforzar el uso de las funciones básicas de procesamiento de entradas multimedia y clasificación en la arquitectura del chatbot, así como comprender el flujo lógico de comunicación: la importancia de que la imagen sea correctamente preprocesada para que el modelo cumpla su función de segmentación y extracción de características. Este tipo de error es común en entornos de desarrollo y resalta la importancia de verificar la calidad del dato de entrada, no solo la ejecución aislada del modelo de inteligencia artificial.
 
 ## Resultados
 [Resultados.pdf](Resutados/Resultados.pdf)
