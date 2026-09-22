@@ -8,22 +8,22 @@ Programar y simular el flujo de procesamiento de un chatbot para analizar imáge
 
 ## Diagrama del circuito
 
-![Diagrama del circuito](DS1/ECOSISTEMA2.1/Diagrama/Diagramadesarrollo.png)
+![Diagrama del circuito](Diagrama/Diagramadesarrollo.png)
 
 ## Código
-[Readme](DS1/ECOSISTEMA2.1/Codigo/readme.txt)
+[Readme](Codigo/readme.txt)
 
 
 
 ## Video del funcionamiento
 
-[Readme](DS1/ECOSISTEMA2.1/Video/readme.txt)
+[Readme](Video/readme.txt)
 
 [Ver video en YouTube]([https://www.youtube.com/watch?v=T5Aq7cRc-mU](https://www.youtube.com/watch?v=r36q2z-AkHk&sttick=0)
 
 ## Reporte
 Incluye:
-[Resultados.pdf](DS1/ECOSISTEMA2.1/Reporte/ReportedeResultados.pdf)
+[Resultados.pdf](Reporte/ReportedeResultados.pdf)
 
 - Gráficas (insertar imagen o link)
 - Tablas de datos
