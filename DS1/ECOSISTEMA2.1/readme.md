@@ -11,7 +11,7 @@ Programar y simular el flujo de procesamiento de un chatbot para analizar imáge
 ![Diagrama del circuito](Diagrama/Diagramadesarrollo.png)
 
 ## Código
-[Readme](Codigo/readme.txt)
+[Readme](Codigo/Integration Telegram Bot.blueprint.json)
 
 
 
