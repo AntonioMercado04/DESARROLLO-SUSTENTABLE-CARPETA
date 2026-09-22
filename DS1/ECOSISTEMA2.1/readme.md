@@ -33,7 +33,7 @@ Incluye:
 La práctica permitió reforzar el uso de las funciones básicas de procesamiento de entradas multimedia y clasificación en la arquitectura del chatbot, así como comprender el flujo lógico de comunicación: la importancia de que la imagen sea correctamente preprocesada para que el modelo cumpla su función de segmentación y extracción de características. Este tipo de error es común en entornos de desarrollo y resalta la importancia de verificar la calidad del dato de entrada, no solo la ejecución aislada del modelo de inteligencia artificial.
 
 ## Resultados
-[Resultados.pdf](Resutados/Resultados.pdf)
+[Resultados.pdf](Resultados/readme.md)
 
 Este documento contiene la descripción de la práctica, objetivos y procedimientos realizados.
 
